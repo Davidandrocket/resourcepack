@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "hazbin:angel_wings",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

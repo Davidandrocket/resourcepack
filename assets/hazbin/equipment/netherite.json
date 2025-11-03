@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "hazbin:netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "hazbin:netherite"
+      }
+    ]
+  }
+}

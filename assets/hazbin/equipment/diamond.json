@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "hazbin:diamond"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "hazbin:diamond"
+      }
+    ]
+  }
+}

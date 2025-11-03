@@ -1,0 +1,130 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/bolt.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE500"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/coast.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE501"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/dune.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE502"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/eye.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE503"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/flow.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE504"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/host.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE505"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/raiser.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE506"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/rib.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE507"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/sentry.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE508"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/shaper.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE509"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/silence.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE510"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/snout.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE511"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/spire.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE512"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/tide.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE513"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/vex.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE514"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/ward.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE515"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/wayfinder.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE516"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:trim_preview/wild.png",
+            "ascent": 28,
+            "height": 34,
+            "chars": ["\uE517"]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"2": "hazbin:item/lucifer_statue"
+	},
+	"elements": [
+		{
+			"from": [11.73368, 6, 11.44773],
+			"to": [24.73368, 27, 11.44773],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.9196, 18, 3.98587]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 5.125, 2.625], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2.625], "texture": "#2"},
+				"south": {"uv": [5.125, 2.625, 3.5, 5.25], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2.625], "texture": "#2"},
+				"up": {"uv": [1.625, 0, 0, 0], "texture": "#2"},
+				"down": {"uv": [1.625, 0, 0, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [-2, 7, 11.42092],
+			"to": [12, 30, 11.42092],
+			"rotation": {"angle": -17.5, "axis": "y", "origin": [11.9196, 18, 11.43587]},
+			"faces": {
+				"north": {"uv": [0, 0, 1.75, 2.875], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2.875], "texture": "#2"},
+				"south": {"uv": [3.5, 0, 1.75, 2.875], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2.875], "texture": "#2"},
+				"up": {"uv": [1.75, 0, 0, 0], "texture": "#2"},
+				"down": {"uv": [1.75, 0, 0, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [-15.35204, 11, 7.22731],
+			"to": [-1.35204, 28, 7.22731],
+			"rotation": {"angle": -45, "axis": "y", "origin": [-1.43244, 18, 7.22599]},
+			"faces": {
+				"north": {"uv": [5.125, 0, 6.875, 2.125], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2.125], "texture": "#2"},
+				"south": {"uv": [5.125, 2.125, 6.875, 4.25], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2.125], "texture": "#2"},
+				"up": {"uv": [0, 0, 1.75, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 1.75, 0], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "StartRightWisp",
+			"origin": [10, 10, 10],
+			"color": 0,
+			"children": [
+				0,
+				{
+					"name": "RightWisp",
+					"origin": [22, 18, 14],
+					"color": 0,
+					"children": [
+						1,
+						{
+							"name": "bone8",
+							"origin": [34.25, 19, 8.5],
+							"color": 0,
+							"children": [2]
+						}
+					]
+				}
+			]
+		}
+	]
+}

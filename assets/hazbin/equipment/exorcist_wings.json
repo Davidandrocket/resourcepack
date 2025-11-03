@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "hazbin:exorcist_wings",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

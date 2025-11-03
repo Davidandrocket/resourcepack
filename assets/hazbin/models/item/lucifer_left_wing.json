@@ -1,0 +1,73 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"2": "hazbin:item/lucifer_statue"
+	},
+	"elements": [
+		{
+			"from": [-8.73368, 6, 10.44773],
+			"to": [4.26632, 27, 10.44773],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8.0804, 18, 2.98587]},
+			"faces": {
+				"north": {"uv": [5.125, 0, 3.5, 2.625], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2.625], "texture": "#2"},
+				"south": {"uv": [3.5, 2.625, 5.125, 5.25], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2.625], "texture": "#2"},
+				"up": {"uv": [0, 0, 1.625, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 1.625, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [4, 7, 10.42092],
+			"to": [18, 30, 10.42092],
+			"rotation": {"angle": 17.5, "axis": "y", "origin": [4.0804, 18, 10.43587]},
+			"faces": {
+				"north": {"uv": [1.75, 0, 0, 2.875], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2.875], "texture": "#2"},
+				"south": {"uv": [1.75, 0, 3.5, 2.875], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2.875], "texture": "#2"},
+				"up": {"uv": [0, 0, 1.75, 0], "texture": "#2"},
+				"down": {"uv": [0, 0, 1.75, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [17.35204, 11, 6.22731],
+			"to": [31.35204, 28, 6.22731],
+			"rotation": {"angle": 45, "axis": "y", "origin": [17.43244, 18, 6.22599]},
+			"faces": {
+				"north": {"uv": [6.875, 0, 5.125, 2.125], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 2.125], "texture": "#2"},
+				"south": {"uv": [6.875, 2.125, 5.125, 4.25], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 2.125], "texture": "#2"},
+				"up": {"uv": [1.75, 0, 0, 0], "texture": "#2"},
+				"down": {"uv": [1.75, 0, 0, 0], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "StarLeftWisp",
+			"origin": [10, 10, 10],
+			"color": 0,
+			"children": [
+				0,
+				{
+					"name": "RightWisp",
+					"origin": [22, 18, 14],
+					"color": 0,
+					"children": [
+						1,
+						{
+							"name": "bone8",
+							"origin": [34.25, 19, 8.5],
+							"color": 0,
+							"children": [2]
+						}
+					]
+				}
+			]
+		}
+	]
+}

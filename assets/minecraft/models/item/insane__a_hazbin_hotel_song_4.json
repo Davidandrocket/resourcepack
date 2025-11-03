@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/insane__a_hazbin_hotel_song_4"
+  }
+}
