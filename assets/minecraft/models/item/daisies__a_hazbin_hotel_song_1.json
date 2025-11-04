@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "item/daisies__a_hazbin_hotel_song_1"
-  }
-}
